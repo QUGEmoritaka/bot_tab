@@ -1,0 +1,9 @@
+{
+    "id": "bot_tab",
+    "version": "1.0.0",
+    "name": "BotTab",
+    "description": "给机器人玩家添加前缀和队伍",
+    "author": "QUGEmoritaka",
+    "entry": "bot_tab",
+    "dependencies": {}
+}
