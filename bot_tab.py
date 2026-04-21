@@ -7,7 +7,7 @@ PLUGIN_METADATA = {
     'name': 'BotTab',
     'description': '',
     'author': 'QUGEmoritaka',
-    'link': ''
+    'link': 'https://github.com/QUGEmoritaka/bot_tab'
 }
 
 BOT_PREFIX = 'bot_'
